@@ -1,0 +1,25 @@
+{
+  "name": "phi-example-plugin",
+  "version": "2.0.0",
+  "description": "Example plugin for Phi's Plugin API v2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhiDevelopment/phi-example-plugin.git"
+  },
+  "keywords": [
+    "Phi",
+    "Example",
+    "Plugin",
+    "v2"
+  ],
+  "author": "Arisien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhiDevelopment/phi-example-plugin/issues"
+  },
+  "homepage": "https://github.com/PhiDevelopment/phi-example-plugin#readme"
+}
